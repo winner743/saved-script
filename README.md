@@ -1,2 +1,3 @@
-# saved-script
-Website deployed via GitHub Pages
+# Saved Script
+
+Hosted on GitHub Pages.
